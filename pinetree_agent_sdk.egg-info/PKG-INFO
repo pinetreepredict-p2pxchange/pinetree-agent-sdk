@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: pinetree-agent-sdk
+Version: 0.1.0
+Summary: Headless SDK for Pine Tree Predict Agentic Liquidity
+Author: Pine Tree Predict
+Requires-Dist: web3>=6.0.0
+Requires-Dist: eth-account>=0.8.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
